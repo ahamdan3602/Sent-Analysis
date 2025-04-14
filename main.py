@@ -1,8 +1,4 @@
 """
-Abdul al-rahman Hamdan
-251362860
-ahamdan4
-The Date
 Description: This Python file is responible for taking input from the user and calls functions in sentiment.py.
 """
 
