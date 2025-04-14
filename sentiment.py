@@ -1,5 +1,4 @@
 """
-Abdul al-rahman Hamdan
 Description: This Python file contains functions for sentiment analysis based on keywords in tweets. Responsible for performing sentiment analysis on tweets by the given functions. Functionalities include read keywords and tweets, clan tweets, calculate sentiment, classifying sentimen into categories, and writing the report to an output file.
 """
 
